@@ -1,5 +1,5 @@
 #include <vector>
-#include "cuda/deform_im2col_cuda.cuh"
+#include "deform_im2col_cuda.cuh"
 
 #include <ATen/ATen.h>
 #include <ATen/cuda/CUDAContext.h>
